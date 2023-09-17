@@ -23,6 +23,7 @@ From the time series visualisation above, it is observed that there is a rising 
 The analysis was aimed at helping clients get the best regions where they can buy their houses.The best regions to invest for a house include: Freedom, NY:14065, Cincinnatus, NY:13040,Oyster Bay, NY:11771,Winfield, NY:13491,12154 Schaghticoke, NY:12154
 
 *Recommendations*
+
 1. I recommend a house buyer within the U.S to consider investing in housing within the following regions: Freedom, NY:14065, Cincinnatus, NY:13040,Oyster Bay, NY:11771,Winfield, NY:13491,12154 Schaghticoke, NY:12154
 2. For investors with high incomes, they can consider to diversify their investments within those major cities. By this they will be minimizing the risks of their investment portifolio and also staking on high ROI cities.
 3. Investors can utilize the analysis to evaluate risks of any other region they maybe interested in investing. The metric for risk asessment is the coefficient of variation (CV) which should be low.
