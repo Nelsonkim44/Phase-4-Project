@@ -10,3 +10,8 @@ The dataset has median house values from April 1996 upto April 2018. The dataset
 
 We observe the trend of two variables. In this case we will watch the Return on Investment (ROI) and Coefficient of Variance (CV) of these top 5 Cities in the New York state in the visualisation below.
 ![image](https://github.com/Nelsonkim44/Phase-4-Project/assets/133017240/02f69bbc-3dc3-486a-b0e2-93004a21deaa)
+The above analysis shows the cities with the highest Return on Investment (ROI). The best city to invest in is the Freedom City, NY.
+
+*Time Series Analysis of the top 5 cities*
+
+![image](https://github.com/Nelsonkim44/Phase-4-Project/assets/133017240/8af37d25-c61b-4163-b24f-24e9fd0a119d)
