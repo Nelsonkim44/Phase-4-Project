@@ -6,6 +6,15 @@ Real estate industry is a highly capital intensive venture and thus extensive, a
 
 Real estate sector is very dynamic and a major industry in all economies of the world. Most Americans dream of owning a house and thus Real estate reports and Analysis are vital in keeping them informed. This project utilizes historical data to paint a picture of major trends in the real estate sector over years and form basis of predicting future house prices.
 
+* Data Columns* 
+RegionID, numerical. This is a unique Id for the regions.
+RegionName, numerical. This field contains the zip code of the region.
+City, string. This column provides the specific city name of the housing data.
+State, string. This column provides the specific state name.
+Metro, string. This provides the name of the metro city that surrounds that region.
+CountyName, string. This is the county name for that region.
+SizeRank, string. This is the ranking done based on the urbanization of the area.
+Dates, The next several columns provide the month and the year with the median price of a real estate.
 The dataset has median house values from April 1996 upto April 2018. The dataset has the following columns: RegionID, RegionName, City, State, Metro, CountyName, SizeRank and 265 more columns bearing dates from April 1996 to April 2018.
 
 We observe the trend of two variables. In this case we will watch the Return on Investment (ROI) and Coefficient of Variance (CV) of these top 5 Cities in the New York state in the visualisation below.
