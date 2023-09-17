@@ -15,3 +15,14 @@ The above analysis shows the cities with the highest Return on Investment (ROI).
 *Time Series Analysis of the top 5 cities*
 
 ![image](https://github.com/Nelsonkim44/Phase-4-Project/assets/133017240/8af37d25-c61b-4163-b24f-24e9fd0a119d)
+
+From the time series visualisation above, it is observed that there is a rising trend in house values from 1996 upto 2008. Then low house values are observed from 2008 through 2010. This could have been caused by economic crisis experienced within that period.
+
+**Conclusion and Recommendations**
+The analysis was aimed at helping clients get the best regions where they can buy their houses.The best regions to invest for a house include: Freedom, NY:14065, Cincinnatus, NY:13040,Oyster Bay, NY:11771,Winfield, NY:13491,12154 Schaghticoke, NY:12154
+*Recommendations*
+1. I recommend a house buyer within the U.S to consider investing in housing within the following regions: Freedom, NY:14065, Cincinnatus, NY:13040,Oyster Bay, NY:11771,Winfield, NY:13491,12154 Schaghticoke, NY:12154
+2. For investors with high incomes, they can consider to diversify their investments within those major cities. By this they will be minimizing the risks of their investment portifolio and also staking on high ROI cities.
+3. Investors can utilize the analysis to evaluate risks of any other region they maybe interested in investing. The metric for risk asessment is the coefficient of variation (CV) which should be low.
+4. Investors should give cities or regions with high Return on investment top priority when considering their investment choices.
+   
