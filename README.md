@@ -6,7 +6,8 @@ Real estate industry is a highly capital intensive venture and thus extensive, a
 
 Real estate sector is very dynamic and a major industry in all economies of the world. Most Americans dream of owning a house and thus Real estate reports and Analysis are vital in keeping them informed. This project utilizes historical data to paint a picture of major trends in the real estate sector over years and form basis of predicting future house prices.
 
-* Data Columns* 
+*Data Columns*
+
 RegionID, numerical. This is a unique Id for the regions.
 
 RegionName, numerical. This field contains the zip code of the region.
